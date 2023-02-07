@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to KK JavaTutorials..</h2>
+<h2>deploy to tomcat has been completed successfully</h2>
 </body>
 </html>
